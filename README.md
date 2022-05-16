@@ -13,7 +13,8 @@ https://chromedriver.chromium.org/downloads
 3) Run in terminal with line:
 python -m pytest -v --driver Chrome --driver-path <~>/chromedriver.exe tests/<enter the name of the file with autotests>.py
 
-Автотесты находятся в папке tests.
+
+  Автотесты находятся в папке tests.
   
   Файл 01_tests_StartPage_links_01.py - содедржит в себе автотесты проверяющие работу ссылок и переходы в меню стартовой страницы сайта;
   
