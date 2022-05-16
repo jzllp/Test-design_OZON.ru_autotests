@@ -11,7 +11,7 @@ https://chromedriver.chromium.org/downloads
 2) Install all required python packages library
 
 3) Run in terminal with line:
-python -m pytest -v --driver Chrome --driver-path <~>/chromedriver.exe tests/<enter the name of the file with autotests>.py
+python -m pytest -v --driver Chrome --driver-path <~>/chromedriver.exe tests/"enter the name of the file with autotests".py
 
 
   Автотесты находятся в папке tests.
